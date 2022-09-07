@@ -1,0 +1,552 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 11,
+    "passes": 0,
+    "pending": 0,
+    "failures": 11,
+    "start": "2022-09-07T18:11:31.071Z",
+    "end": "2022-09-07T18:11:31.085Z",
+    "duration": 14
+  },
+  "tests": [
+    {
+      "title": "has a <h4> element with the correct content",
+      "fullTitle": "index.html the title-box section has a <h4> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h4> tag(s) found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h4> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:13:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h4> tag(s) found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h4> tag(s) found: expected null to exist",
+            "stack": "AssertionError: No <h4> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:13:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the title-box section has a <h2> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h2> tag(s) found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h2> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:25:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h2> tag(s) found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h2> tag(s) found: expected null to exist",
+            "stack": "AssertionError: No <h2> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:25:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <h4> element with the correct content",
+      "fullTitle": "index.html the title-box section has a second <h4> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <h4> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <h4> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:37:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <h4> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <h4> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <h4> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:37:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h3> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <h3> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h3> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h3> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:52:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h3> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h3> tag found: expected null to exist",
+            "stack": "AssertionError: No <h3> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:52:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h1> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <h1> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h1> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h1> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:64:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h1> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h1> tag found: expected null to exist",
+            "stack": "AssertionError: No <h1> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:64:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <h3> tag with the correct contents",
+      "fullTitle": "index.html the back section has a second <h3> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <h3> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <h3> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:75:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <h3> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <h3> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <h3> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:75:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <p> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <p> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <p> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <p> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:86:26)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <p> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <p> tag found: expected null to exist",
+            "stack": "AssertionError: No <p> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:86:26)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <span> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <span> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <span> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <span> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:97:29)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <span> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <span> tag found: expected null to exist",
+            "stack": "AssertionError: No <span> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:97:29)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <img> tag with the correct attributes",
+      "fullTitle": "index.html the back section has a <img> tag with the correct attributes",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <img> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <img> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:109:28)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <img> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <img> tag found: expected null to exist",
+            "stack": "AssertionError: No <img> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:109:28)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <span> tag with the correct contents",
+      "fullTitle": "index.html the back section has a second <span> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <span> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <span> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:122:29)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <span> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <span> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <span> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:122:29)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <img> tag with the correct attributes",
+      "fullTitle": "index.html the back section has a second <img> tag with the correct attributes",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <img> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <img> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:134:28)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <img> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <img> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <img> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:134:28)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "has a <h4> element with the correct content",
+      "fullTitle": "index.html the title-box section has a <h4> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h4> tag(s) found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h4> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:13:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h4> tag(s) found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h4> tag(s) found: expected null to exist",
+            "stack": "AssertionError: No <h4> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:13:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the title-box section has a <h2> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h2> tag(s) found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h2> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:25:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h2> tag(s) found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h2> tag(s) found: expected null to exist",
+            "stack": "AssertionError: No <h2> tag(s) found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:25:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <h4> element with the correct content",
+      "fullTitle": "index.html the title-box section has a second <h4> element with the correct content",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <h4> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <h4> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:37:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <h4> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <h4> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <h4> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:37:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h3> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <h3> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h3> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h3> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:52:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h3> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h3> tag found: expected null to exist",
+            "stack": "AssertionError: No <h3> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:52:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <h1> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <h1> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <h1> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <h1> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:64:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <h1> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <h1> tag found: expected null to exist",
+            "stack": "AssertionError: No <h1> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:64:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <h3> tag with the correct contents",
+      "fullTitle": "index.html the back section has a second <h3> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <h3> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <h3> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:75:27)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <h3> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <h3> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <h3> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:75:27)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <p> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <p> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <p> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <p> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:86:26)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <p> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <p> tag found: expected null to exist",
+            "stack": "AssertionError: No <p> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:86:26)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <span> tag with the correct contents",
+      "fullTitle": "index.html the back section has a <span> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <span> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <span> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:97:29)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <span> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <span> tag found: expected null to exist",
+            "stack": "AssertionError: No <span> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:97:29)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a <img> tag with the correct attributes",
+      "fullTitle": "index.html the back section has a <img> tag with the correct attributes",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No <img> tag found: expected null to exist",
+        "showDiff": false,
+        "actual": null,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No <img> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:109:28)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No <img> tag found: expected null to exist",
+            "showDiff": false,
+            "actual": null,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No <img> tag found: expected null to exist",
+            "stack": "AssertionError: No <img> tag found: expected null to exist\n    at Context.<anonymous> (test/index.html.test.js:109:28)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <span> tag with the correct contents",
+      "fullTitle": "index.html the back section has a second <span> tag with the correct contents",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <span> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <span> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:122:29)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <span> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <span> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <span> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:122:29)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "has a second <img> tag with the correct attributes",
+      "fullTitle": "index.html the back section has a second <img> tag with the correct attributes",
+      "file": "/home/criso/Development/code/phase-0-html-album-cover-lab/test/index.html.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "No second <img> tag found: expected undefined to exist",
+        "showDiff": false,
+        "operator": "strictEqual",
+        "stack": "AssertionError: No second <img> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:134:28)\n    at processImmediate (node:internal/timers:466:21)",
+        "multiple": [
+          {
+            "name": "AssertionError",
+            "message": "No second <img> tag found: expected undefined to exist",
+            "showDiff": false,
+            "operator": "strictEqual",
+            "multiple": "AssertionError: No second <img> tag found: expected undefined to exist",
+            "stack": "AssertionError: No second <img> tag found: expected undefined to exist\n    at Context.<anonymous> (test/index.html.test.js:134:28)\n    at processImmediate (node:internal/timers:466:21)"
+          }
+        ]
+      }
+    }
+  ],
+  "passes": []
+}
